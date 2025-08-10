@@ -1,0 +1,4 @@
+ID;title;prio;descr;impact;miti_ID
+11111111-1111-1111-1111-111111111111;Risk 1;HIGH;First risk;5;20466921-7d57-4e76-b14c-e53fd97dcb11
+20466922-7d57-4e76-b14c-e53fd97dcb12;20466921-7d57-4e76-b14c-e53fd97dcb12;HIGH;2;Repeated SLA violation on service delivery for two successive quarters;20466921-7d57-4e76-b14c-e53fd97dcb13
+20466922-7d57-4e76-b14c-e53fd97dcb13;20466921-7d57-4e76-b14c-e53fd97dcb13;HIGH;1;Violation of export and trade control with unauthorized downloads;20466921-7d57-4e76-b14c-e53fd97dcb14
